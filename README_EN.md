@@ -67,8 +67,6 @@ Some indicators require data that the game engine only broadcasts while specific
 
 ## Installation
 
-**Steam Workshop:** Subscribe and restart the game.
-
 **Manual:** Copy `resources/` into `<install>/resources/`, maintaining the folder structure. Restart.
 
 **Files:**
